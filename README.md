@@ -1,12 +1,54 @@
+|  [![GitHub](https://img.shields.io/github/license/Touriva/TOUR)](https://opensource.org/licenses/MIT) |
+[![Discord](https://img.shields.io/discord/474610506003644427.svg?logo=discord&label=Discord&color=7289da)](https://discord.io/touriva) |
+[![twitter](https://img.shields.io/twitter/follow/TourivaOfficial.svg?logo=twitter&label=Twitter&color=1da1f2&style=square)](https://twitter.com/TourivaOfficial) |
+[![telegram](https://img.shields.io/badge/Telegram-follow-0088cc.svg?logo=telegram&color=0088cc)](https://t.me/touriva_tour)
+[![telegram](https://img.shields.io/badge/Telegram-chat-0088cc.svg?logo=telegram&color=0088cc)](https://t.me/tourivatour)
+---
+![Touriva Wallet](https://cdn.discordapp.com/attachments/749114334789238804/762029458961334302/Wallet.jpg "Touriva Wallet")
 
-[![twitter](https://img.shields.io/twitter/follow/safecoins?style=social)](https://twitter.com/safecoins)
-[![discord](https://img.shields.io/discord/412898016371015680)](https://discord.gg/rKK7huf)
+
+
+***Touriva [TOUR]***
+=====================================
+
+### *TOUR Core - [Latest Wallet releases](https://github.com/Touriva/TOUR/releases)*
 
 ---
-![Safecoin Logo](https://raw.githubusercontent.com/Fair-Exchange/safecoinwiki/master/Logos/SafeCoin/SafeCoin-Logo-with-text.png "Safecoin Logo")
 
+### ***Touriva official***
 
-## Safecoin
+> **Website : http://touriva.info/**<br>
+> **Whitepaper : https://touriva.info/whitepaper/**<br>
+> **Explorer : https://explorer.touriva.info/**<br>
+> **ANN : https://bitcointalk.org/index.php?topic=5183843**<br>
+> **Download Portal : https://portal.touriva.info/**<br>
+> **Roadmap : https://trello.com/b/ICrb0AXr/interactive-roadmap**
+
+---
+
+### ***What is TOUR?***
+
+**TOUR is a new digital currency that enables anonymous, instant
+payments to anyone, anywhere in the world. TOUR uses peer-to-peer technology
+to operate with no central authority: managing transactions and issuing money
+are carried out collectively by the network. TOUR Core is the name of the open
+source software which enables the use of this currency.**
+
+**For more information see [Touriva.info](https://touriva.info).**
+
+### ***License***
+
+*TOUR Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+information or see https://opensource.org/licenses/MIT.*
+
+<br>
+
+---
+---
+
+<br>
+
+# Safecoin
 
 This is the official Safecoin sourcecode repository based on https://github.com/Fair-Exchange/safecoin. 
 
