@@ -1,10 +1,11 @@
-|  [![GitHub](https://img.shields.io/github/license/Touriva/TOUR)](https://opensource.org/licenses/MIT) |
-[![Discord](https://img.shields.io/discord/474610506003644427.svg?logo=discord&label=Discord&color=7289da)](https://discord.io/touriva) |
-[![twitter](https://img.shields.io/twitter/follow/TourivaOfficial.svg?logo=twitter&label=Twitter&color=1da1f2&style=square)](https://twitter.com/TourivaOfficial) |
+[![GitHub](https://img.shields.io/github/license/Touriva/TOUR)](https://opensource.org/licenses/MIT) ***"***
+[![Discord](https://img.shields.io/discord/474610506003644427.svg?logo=discord&label=Discord&color=7289da)](https://discord.io/touriva) ***"***
+[![twitter](https://img.shields.io/twitter/follow/TourivaOfficial.svg?logo=twitter&label=Twitter&color=1da1f2&style=square)](https://twitter.com/TourivaOfficial) ***"***
 [![telegram](https://img.shields.io/badge/Telegram-follow-0088cc.svg?logo=telegram&color=0088cc)](https://t.me/touriva_tour)
 [![telegram](https://img.shields.io/badge/Telegram-chat-0088cc.svg?logo=telegram&color=0088cc)](https://t.me/tourivatour)
+
 ---
-![Touriva Wallet](https://cdn.discordapp.com/attachments/749114334789238804/762029458961334302/Wallet.jpg "Touriva Wallet")
+![Touriva Graphic](https://cdn.discordapp.com/attachments/749114334789238804/762040553419309136/sunrise_cut2.png "Touriva Graphic")
 
 
 
